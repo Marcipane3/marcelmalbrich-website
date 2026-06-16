@@ -27,10 +27,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   1. Visiting `marcelmalbrich.com` shows a live page served by Vercel (even if placeholder content)
   2. Pushing a change to the GitHub repo's main branch results in an automatic new deployment, with no manual deploy step
   3. The codebase's full history is tracked in GitHub, visible to Marcel
-**Plans**: TBD
+**Plans**: 2 plans
 
 Plans:
-- [ ] 01-01: TBD
+- [ ] 01-01-PLAN.md — Scaffold Next.js + Tailwind app in /main, build placeholder page, push to new public GitHub repo
+- [ ] 01-02-PLAN.md — Create Vercel project (auto-deploy from GitHub), connect marcelmalbrich.com via Cloudflare DNS
 
 ### Phase 2: Design System
 **Goal**: The site has one consistent, professional visual identity that holds up on any screen size.
@@ -85,7 +86,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation & Deployment Pipeline | 0/TBD | Not started | - |
+| 1. Foundation & Deployment Pipeline | 0/2 | Not started | - |
 | 2. Design System | 0/TBD | Not started | - |
 | 3. Site Content | 0/TBD | Not started | - |
 | 4. Hidden Lab | 0/TBD | Not started | - |
