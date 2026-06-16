@@ -3,14 +3,14 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: executing
-stopped_at: Phase 1 UI-SPEC approved
-last_updated: "2026-06-16T20:08:57.150Z"
-last_activity: 2026-06-16 — Roadmap created from REQUIREMENTS.md (4 phases, 17/17 v1 requirements mapped)
+stopped_at: Completed 01-01-PLAN.md
+last_updated: "2026-06-16T20:24:36.977Z"
+last_activity: 2026-06-16 -- Phase 01 execution started
 progress:
   total_phases: 4
   completed_phases: 0
-  total_plans: 0
-  completed_plans: 0
+  total_plans: 2
+  completed_plans: 1
   percent: 0
 ---
 
@@ -21,14 +21,14 @@ progress:
 See: .planning/PROJECT.md (updated 2026-06-16)
 
 **Core value:** The main site must work as a credible, professional portfolio that a recruiter or peer can browse and come away with a clear, accurate picture of who Marcel is and what he's capable of.
-**Current focus:** Phase 1 — Foundation & Deployment Pipeline
+**Current focus:** Phase 01 — foundation-deployment-pipeline
 
 ## Current Position
 
-Phase: 1 of 4 (Foundation & Deployment Pipeline)
-Plan: 0 of TBD in current phase
+Phase: 01 (foundation-deployment-pipeline) — EXECUTING
+Plan: 2 of 2
 Status: Ready to execute
-Last activity: 2026-06-16 — Roadmap created from REQUIREMENTS.md (4 phases, 17/17 v1 requirements mapped)
+Last activity: 2026-06-16 -- Phase 01 execution started
 
 Progress: [░░░░░░░░░░] 0%
 
@@ -52,6 +52,7 @@ Progress: [░░░░░░░░░░] 0%
 - Trend: -
 
 *Updated after each plan completion*
+| Phase 01 P01 | 25 | 2 tasks | 10 files |
 
 ## Accumulated Context
 
@@ -63,6 +64,8 @@ Recent decisions affecting current work:
 - [Init]: Replaced pre-existing hand-rolled root-level planning system with GSD as source of truth
 - [Init]: Next.js (App Router) + Tailwind CSS + Vercel + GitHub stack locked
 - [Init]: Lab subdomain runs as a fully separate Vercel project, unlinked from main nav
+- [Phase ?]: Tailwind v4 scaffold uses CSS-only config instead of tailwind.config.ts -- accepted as create-next-app's current output
+- [Phase ?]: Switched git remote protocol from SSH to HTTPS for origin after SSH host-key verification failed on first push
 
 ### Pending Todos
 
@@ -82,6 +85,6 @@ Items acknowledged and carried forward from previous milestone close:
 
 ## Session Continuity
 
-Last session: 2026-06-16T19:50:31.132Z
-Stopped at: Phase 1 UI-SPEC approved
-Resume file: .planning/phases/01-foundation-deployment-pipeline/01-UI-SPEC.md
+Last session: 2026-06-16T20:24:36.963Z
+Stopped at: Completed 01-01-PLAN.md
+Resume file: None

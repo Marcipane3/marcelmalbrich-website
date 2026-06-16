@@ -10,7 +10,7 @@ Requirements for initial release. Each maps to roadmap phases.
 ### Infrastructure
 
 - [ ] **INFRA-01**: Site is live and reachable at the custom domain `marcelmalbrich.com`
-- [ ] **INFRA-02**: Codebase is version-controlled in a GitHub repository
+- [x] **INFRA-02**: Codebase is version-controlled in a GitHub repository
 - [ ] **INFRA-03**: Site auto-deploys to Vercel from the GitHub repo
 
 ### Pages
@@ -71,7 +71,7 @@ Populated during roadmap creation.
 | Requirement | Phase | Status |
 |-------------|-------|--------|
 | INFRA-01 | Phase 1 | Pending |
-| INFRA-02 | Phase 1 | Pending |
+| INFRA-02 | Phase 1 | Complete |
 | INFRA-03 | Phase 1 | Pending |
 | PAGE-01 | Phase 3 | Pending |
 | PAGE-02 | Phase 3 | Pending |
@@ -89,6 +89,7 @@ Populated during roadmap creation.
 | LAB-03 | Phase 4 | Pending |
 
 **Coverage:**
+
 - v1 requirements: 17 total
 - Mapped to phases: 17
 - Unmapped: 0
