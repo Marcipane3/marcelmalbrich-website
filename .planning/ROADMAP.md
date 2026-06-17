@@ -52,12 +52,16 @@ Plans:
   2. There is no dark mode toggle or alternate theme anywhere on the site
   3. A visitor can read and navigate the site comfortably on both a phone-sized and desktop-sized screen
 
-**Plans**: TBD
-**UI hint**: yes
+**Plans**: 2 plans
 
 Plans:
+**Wave 1**
 
-- [ ] 02-01: TBD
+- [ ] 02-01-PLAN.md — Replace design tokens in globals.css with the full handoff token set; swap Geist for Newsreader + Public Sans in layout.tsx
+
+**Wave 2** *(blocked on Wave 1 completion)*
+
+- [ ] 02-02-PLAN.md — Build Header.tsx (sticky nav, MM monogram, mobile-scroll) and Footer.tsx; wire both into layout.tsx
 
 ### Phase 3: Site Content
 
@@ -107,6 +111,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation & Deployment Pipeline | 2/2 | Complete   | 2026-06-17 |
-| 2. Design System | 0/TBD | Not started | - |
+| 2. Design System | 0/2 | Not started | - |
 | 3. Site Content | 0/TBD | Not started | - |
 | 4. Hidden Lab | 0/TBD | Not started | - |
