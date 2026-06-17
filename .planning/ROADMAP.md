@@ -13,7 +13,7 @@ The site is built in four horizontal layers, in order: get the technical foundat
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Foundation & Deployment Pipeline** - Repo, Next.js scaffold, and custom domain live on Vercel with a placeholder page
+- [x] **Phase 1: Foundation & Deployment Pipeline** - Repo, Next.js scaffold, and custom domain live on Vercel with a placeholder page (completed 2026-06-17)
 - [ ] **Phase 2: Design System** - Single light theme via centralized Tailwind tokens, applied to a responsive page shell
 - [ ] **Phase 3: Site Content** - All real pages and project entries live on the main site
 - [ ] **Phase 4: Hidden Lab** - Separate lab subdomain deployment with one working experiment
@@ -39,7 +39,7 @@ Plans:
 
 **Wave 2** *(blocked on Wave 1 completion)*
 
-- [ ] 01-02-PLAN.md — Create Vercel project (auto-deploy from GitHub), connect marcelmalbrich.com via Cloudflare DNS
+- [x] 01-02-PLAN.md — Create Vercel project (auto-deploy from GitHub), connect marcelmalbrich.com via Cloudflare DNS
 
 ### Phase 2: Design System
 
@@ -106,7 +106,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Foundation & Deployment Pipeline | 1/2 | In Progress|  |
+| 1. Foundation & Deployment Pipeline | 2/2 | Complete   | 2026-06-17 |
 | 2. Design System | 0/TBD | Not started | - |
 | 3. Site Content | 0/TBD | Not started | - |
 | 4. Hidden Lab | 0/TBD | Not started | - |
