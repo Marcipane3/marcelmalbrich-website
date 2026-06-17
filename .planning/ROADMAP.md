@@ -57,7 +57,7 @@ Plans:
 Plans:
 **Wave 1**
 
-- [ ] 02-01-PLAN.md — Replace design tokens in globals.css with the full handoff token set; swap Geist for Newsreader + Public Sans in layout.tsx
+- [x] 02-01-PLAN.md — Replace design tokens in globals.css with the full handoff token set; swap Geist for Newsreader + Public Sans in layout.tsx
 
 **Wave 2** *(blocked on Wave 1 completion)*
 
@@ -111,6 +111,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation & Deployment Pipeline | 2/2 | Complete   | 2026-06-17 |
-| 2. Design System | 0/2 | Not started | - |
+| 2. Design System | 1/2 | In progress | - |
 | 3. Site Content | 0/TBD | Not started | - |
 | 4. Hidden Lab | 0/TBD | Not started | - |
