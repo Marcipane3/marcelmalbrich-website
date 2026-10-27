@@ -28,7 +28,7 @@ See: .planning/PROJECT.md (updated 2026-06-16)
 Phase: 03 (site-content) — IN PROGRESS (step 1 of 3: Projects page built, awaiting Marcel's wording approval)
 Plan: —
 Status: Phase 2 complete and deployed; content inputs mostly in hand
-Last activity: 2026-10-27 -- Phase 02 Plan 02 approved and deployed
+Last activity: 2026-10-27 -- Projects page (Phase 3 step 1) live; playful-layer idea logged as backlog 999.1
 
 Progress: [█████░░░░░] 50%
 

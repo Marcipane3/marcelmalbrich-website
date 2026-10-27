@@ -101,6 +101,16 @@ Plans:
 
 - [ ] 04-01: TBD
 
+## Backlog
+
+### 999.1: Playful layer (idea, not scheduled)
+
+**Raised**: 2026-10-27 by Marcel, after the Projects page went live.
+**Idea**: Keep the professional site calm and credible, but add an optional, more playful way to explore it, e.g. a small 2D world you walk through with an avatar, a book whose pages turn chapter by chapter, or mini-games that reveal content. Inspired by a 2D app Marcel's brother built; the result must be an original design.
+**Open question first**: Who should this attract, and what should they feel or do afterwards?
+**Proposed route**: Prototype in the hidden lab (Phase 4) first; graduate to the main site only once it works and gets good feedback. The plain pages always stay the complete, accessible version.
+**Kickoff prompt**: `.planning/seeds/playful-layer-kickoff.md`
+
 ## Progress
 
 **Execution Order:**
