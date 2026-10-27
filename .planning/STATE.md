@@ -25,10 +25,10 @@ See: .planning/PROJECT.md (updated 2026-06-16)
 
 ## Current Position
 
-Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience live + approved; About, Home, Personal, Contact still to build)
+Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience live; Contact built (local); Personal, Home + About still to build)
 Plan: —
 Status: Phase 2 complete and deployed; content inputs mostly in hand
-Last activity: 2026-10-27 -- Experience page (Phase 3 step 2) live, wording approved
+Last activity: 2026-10-27 -- Contact page (Phase 3 step 3) built and browser-checked
 
 Progress: [█████░░░░░] 50%
 
@@ -93,9 +93,10 @@ Items acknowledged and carried forward from previous milestone close:
 |---|-------------|------|--------|-----------|
 | 261027-hg8 | Phase 3 step 1: reusable ProjectCard + structured project data + /projects page with four projects | 2026-10-27 | 9f51ddf | [261027-hg8-phase-3-step-1-reusable-projectcard-stru](./quick/261027-hg8-phase-3-step-1-reusable-projectcard-stru/) |
 | 261027-ubw | Phase 3 step 2: TimelineItem component + typed experience data + /experience page | 2026-10-27 | d1220d5 | [261027-ubw-phase-3-step-2-experience-page-cv-timeli](./quick/261027-ubw-phase-3-step-2-experience-page-cv-timeli/) |
+| fast | Phase 3 step 3: /contact page (mailto + copy button + LinkedIn, content in main/content/contact.ts) | 2026-10-27 | 25cf4c5 | — |
 
 ## Session Continuity
 
 Last session: 2026-10-27T12:00:00.000Z
-Stopped at: Experience page live
-Resume file: None — next: build Contact, then Personal, then Home + About
+Stopped at: Contact page committed locally
+Resume file: None — next: push Contact, then build Personal, then Home + About
