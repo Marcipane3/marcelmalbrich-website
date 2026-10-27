@@ -54,7 +54,7 @@ The main site must work as a credible, professional portfolio that a recruiter o
 - **Hosting**: Vercel — free tier fits this scale, native custom domain + subdomain support, low maintenance.
 - **Version control**: GitHub — needed for Vercel deployment and to give Marcel visibility into project history.
 - **Timeline**: 2-3 month build, sessions sized to roughly 2-3 prompts each — Marcel is learning concepts as he goes, not racing to ship.
-- **Confidentiality**: PPM Rollout content must stay sanitized — structure/approach/outcomes only.
+- **Confidentiality**: PPM Rollout project card must stay sanitized — structure/approach/outcomes only, employer described generically (e.g. "a global biologics manufacturer"). The Experience page may name AGC Biologics and Marcel's role, as on LinkedIn. Never publish phone number or home address from the CV.
 - **Working style**: Marcel reviews and guides; he does not write code. Each new structural concept (component, routing, deployment, DNS, etc.) should get a brief plain-language explanation when first introduced.
 - **Design**: Single light theme only, no dark mode toggle. Design tokens centralized in Tailwind config, not hardcoded ad hoc.
 
@@ -66,7 +66,8 @@ The main site must work as a credible, professional portfolio that a recruiter o
 | Next.js + Tailwind CSS as the stack | Strong portfolio fit, large ecosystem/documentation, good for AI-assisted learning-by-building | — Pending |
 | Vercel for hosting, two separate deployments (main + lab) | Free tier sufficient, native subdomain support, isolates lab experiments from main site stability | — Pending |
 | Lab subdomain not linked from main site nav | Keeps experimental work private/discoverable only via direct URL until it's ready to graduate | — Pending |
-| PPM Rollout project content kept sanitized/structural | Confidentiality — avoid exposing employer-specific or proprietary details | — Pending |
+| PPM Rollout project content kept sanitized/structural | Confidentiality — avoid exposing employer-specific or proprietary details | ✓ Confirmed 2026-10-27 |
+| Experience page names AGC Biologics + role; PPM project card stays anonymous | Employer and title are already public (LinkedIn); project detail stays generic | ✓ Decided 2026-10-27 |
 | Domain registrar and email provider | Not yet decided — to be compared during Phase 0 work | — Pending |
 
 ## Evolution
