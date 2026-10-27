@@ -5,7 +5,7 @@ milestone_name: milestone
 status: ready-to-plan
 stopped_at: Phase 2 complete — Phase 3 (site content) ready to plan
 last_updated: "2026-10-27T12:00:00.000Z"
-last_activity: 2026-10-27 -- Quick task 261027-hg8 completed (Projects page)
+last_activity: 2026-10-27 -- Quick task 261027-ubw completed (Experience page, local only)
 progress:
   total_phases: 4
   completed_phases: 2
@@ -25,10 +25,10 @@ See: .planning/PROJECT.md (updated 2026-06-16)
 
 ## Current Position
 
-Phase: 03 (site-content) — IN PROGRESS (step 1 of 3: Projects page built, awaiting Marcel's wording approval)
+Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience built locally, awaiting wording approval + deploy go-ahead; About, Home, Personal, Contact still to build)
 Plan: —
 Status: Phase 2 complete and deployed; content inputs mostly in hand
-Last activity: 2026-10-27 -- Projects page (Phase 3 step 1) live; playful-layer idea logged as backlog 999.1
+Last activity: 2026-10-27 -- Experience page (Phase 3 step 2) built and browser-checked locally, not pushed
 
 Progress: [█████░░░░░] 50%
 
@@ -92,9 +92,10 @@ Items acknowledged and carried forward from previous milestone close:
 | # | Description | Date | Commit | Directory |
 |---|-------------|------|--------|-----------|
 | 261027-hg8 | Phase 3 step 1: reusable ProjectCard + structured project data + /projects page with four projects | 2026-10-27 | 9f51ddf | [261027-hg8-phase-3-step-1-reusable-projectcard-stru](./quick/261027-hg8-phase-3-step-1-reusable-projectcard-stru/) |
+| 261027-ubw | Phase 3 step 2: TimelineItem component + typed experience data + /experience page | 2026-10-27 | d1220d5 | [261027-ubw-phase-3-step-2-experience-page-cv-timeli](./quick/261027-ubw-phase-3-step-2-experience-page-cv-timeli/) |
 
 ## Session Continuity
 
 Last session: 2026-10-27T12:00:00.000Z
-Stopped at: Phase 2 complete and pushed; Phase 3 content gathered
-Resume file: None — next step is planning Phase 3
+Stopped at: Experience page committed locally (not pushed) — awaiting Marcel's wording approval
+Resume file: None — next: push Experience after approval, then build next page (Contact/Personal/Home+About)

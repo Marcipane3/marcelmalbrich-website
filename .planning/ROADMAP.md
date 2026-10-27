@@ -79,9 +79,13 @@ Plans:
 **Plans**: TBD
 **UI hint**: yes
 
-Plans:
+Plans: built page by page as quick tasks
 
-- [ ] 03-01: TBD
+- [x] Projects page (quick 261027-hg8) — live, wording approved 2026-10-27
+- [x] Experience page (quick 261027-ubw) — built 2026-10-27, pending wording approval + deploy
+- [ ] Contact page
+- [ ] Personal page
+- [ ] Home + About pages
 
 ### Phase 4: Hidden Lab
 
@@ -122,5 +126,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 |-------|----------------|--------|-----------|
 | 1. Foundation & Deployment Pipeline | 2/2 | Complete   | 2026-06-17 |
 | 2. Design System | 2/2 | Complete | 2026-10-27 |
-| 3. Site Content | 0/TBD | Not started | - |
+| 3. Site Content | 2/5 pages | In progress | - |
 | 4. Hidden Lab | 0/TBD | Not started | - |
