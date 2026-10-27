@@ -89,7 +89,7 @@ export function ProjectCard({ project }: { project: Project }) {
     <article
       id={project.slug}
       aria-labelledby={titleId}
-      className="bg-surface border border-line rounded-[var(--radius-lg)] [box-shadow:var(--shadow-sm)] p-6 md:p-10"
+      className="scroll-mt-20 bg-surface border border-line rounded-[var(--radius-lg)] [box-shadow:var(--shadow-sm)] p-6 md:p-10"
     >
       {/* Header: image left (desktop) / on top (mobile), text beside/below */}
       <div className="grid gap-6 md:gap-10 md:grid-cols-[2fr_3fr] md:items-center">
