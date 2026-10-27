@@ -56,7 +56,7 @@ Typed project data file with four entries (anonymous PPM rollout, Bordenau festi
 - `npx eslint app/projects components/ProjectCard.tsx content/projects.ts` — clean
 - `npm run build` — succeeds; `/projects` listed as static (○)
 - Prerendered `.next/server/app/projects.html` contains all checked strings (title metadata, "biologics", "Hajo dreht auf", Citchen, henmarsell, "Photo coming soon" x4, `noopener noreferrer`, `Citchen/v2/`); exactly one `target="_blank"` link
-- Confidentiality grep over `main/` (AGC, Projectum, Context&, CDU, CDMO, site cities, old shop domain) — no matches
+- Confidentiality grep over `main/` (employer, vendors, party, site cities, old shop domain — term list kept out of the public repo) — no matches
 - No hex colours and no `border-l-` classes in ProjectCard.tsx
 - Spot-checked built CSS: arbitrary token classes (shadow, display sizes, eyebrow tracking, 2fr/3fr grid, reading width, focus outline colour) all generated
 
