@@ -1,0 +1,4 @@
+# Private source material — repo is public. Never commit CVs (phone, address)
+# or raw project dumps; only sanitized drafts in Content/*.md are tracked.
+Content/*.pdf
+Content/New folder/
