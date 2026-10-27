@@ -14,7 +14,7 @@ The site is built in four horizontal layers, in order: get the technical foundat
 Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Foundation & Deployment Pipeline** - Repo, Next.js scaffold, and custom domain live on Vercel with a placeholder page (completed 2026-06-17)
-- [ ] **Phase 2: Design System** - Single light theme via centralized Tailwind tokens, applied to a responsive page shell
+- [x] **Phase 2: Design System** - Single light theme via centralized Tailwind tokens, applied to a responsive page shell (completed 2026-10-27)
 - [ ] **Phase 3: Site Content** - All real pages and project entries live on the main site
 - [ ] **Phase 4: Hidden Lab** - Separate lab subdomain deployment with one working experiment
 
@@ -61,7 +61,7 @@ Plans:
 
 **Wave 2** *(blocked on Wave 1 completion)*
 
-- [ ] 02-02-PLAN.md — Build Header.tsx (sticky nav, MM monogram, mobile-scroll) and Footer.tsx; wire both into layout.tsx
+- [x] 02-02-PLAN.md — Build Header.tsx (sticky nav, MM monogram, mobile-scroll) and Footer.tsx; wire both into layout.tsx
 
 ### Phase 3: Site Content
 
@@ -111,6 +111,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Foundation & Deployment Pipeline | 2/2 | Complete   | 2026-06-17 |
-| 2. Design System | 1/2 | In progress | - |
+| 2. Design System | 2/2 | Complete | 2026-10-27 |
 | 3. Site Content | 0/TBD | Not started | - |
 | 4. Hidden Lab | 0/TBD | Not started | - |

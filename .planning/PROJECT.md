@@ -68,6 +68,8 @@ The main site must work as a credible, professional portfolio that a recruiter o
 | Lab subdomain not linked from main site nav | Keeps experimental work private/discoverable only via direct URL until it's ready to graduate | — Pending |
 | PPM Rollout project content kept sanitized/structural | Confidentiality — avoid exposing employer-specific or proprietary details | ✓ Confirmed 2026-10-27 |
 | Experience page names AGC Biologics + role; PPM project card stays anonymous | Employer and title are already public (LinkedIn); project detail stays generic | ✓ Decided 2026-10-27 |
+| No job-search / availability statement anywhere on the site | Site stays neutral; Marcel's explicit call | ✓ Decided 2026-10-27 |
+| Cookbook App card links the live app (marcipane3.github.io/Citchen) | Live demo is stronger than description; URL kept in data so the planned citchen domain move is a one-line change | ✓ Decided 2026-10-27 |
 | Domain registrar and email provider | Not yet decided — to be compared during Phase 0 work | — Pending |
 
 ## Evolution

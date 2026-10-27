@@ -30,8 +30,8 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Design
 
-- [ ] **DSGN-01**: Site uses a single light theme applied via centralized Tailwind design tokens (no dark mode toggle)
-- [ ] **DSGN-02**: Site is usable and readable on both mobile and desktop screen sizes
+- [x] **DSGN-01**: Site uses a single light theme applied via centralized Tailwind design tokens (no dark mode toggle)
+- [x] **DSGN-02**: Site is usable and readable on both mobile and desktop screen sizes
 
 ### Lab
 
@@ -82,8 +82,8 @@ Populated during roadmap creation.
 | PROJ-02 | Phase 3 | Pending |
 | PROJ-03 | Phase 3 | Pending |
 | PROJ-04 | Phase 3 | Pending |
-| DSGN-01 | Phase 2 | Pending |
-| DSGN-02 | Phase 2 | Pending |
+| DSGN-01 | Phase 2 | Complete |
+| DSGN-02 | Phase 2 | Complete |
 | LAB-01 | Phase 4 | Pending |
 | LAB-02 | Phase 4 | Pending |
 | LAB-03 | Phase 4 | Pending |

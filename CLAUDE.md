@@ -74,11 +74,11 @@ If Marcel asks for any of these, treat it as a scope change — confirm and upda
 
 > Update this section as the project progresses so each new session has an at-a-glance summary.
 
-- **Current phase:** Phase 0 — Foundations & Setup
-- **Domain status:** Not yet purchased (`marcelmalbrich.com` candidate)
-- **Repo status:** Not yet created
-- **Deployment status:** Not yet started
-- **Design direction:** Not yet decided (light theme confirmed; specifics TBD)
+- **Current phase:** Phase 3 — Site Content (ready to plan). Phases 1–2 complete.
+- **Domain status:** `marcelmalbrich.com` live (Cloudflare DNS → Vercel)
+- **Repo status:** github.com/Marcipane3/marcelmalbrich-website (PUBLIC — never commit CV, phone, address)
+- **Deployment status:** Push to `master` auto-deploys to production
+- **Design direction:** Decided — teal/off-white tokens, Newsreader + Public Sans (see Content/CLAUDE_CODE_HANDOFF.md)
 
 <!-- GSD:project-start source:PROJECT.md -->
 
