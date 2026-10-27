@@ -5,7 +5,7 @@ milestone_name: milestone
 status: ready-to-plan
 stopped_at: Phase 2 complete — Phase 3 (site content) ready to plan
 last_updated: "2026-10-27T12:00:00.000Z"
-last_activity: 2026-10-27 -- Quick task 261027-ubw completed (Experience page, local only)
+last_activity: 2026-10-27 -- Quick task 261027-ubw completed (Experience page live)
 progress:
   total_phases: 4
   completed_phases: 2
@@ -25,10 +25,10 @@ See: .planning/PROJECT.md (updated 2026-06-16)
 
 ## Current Position
 
-Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience built locally, awaiting wording approval + deploy go-ahead; About, Home, Personal, Contact still to build)
+Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience live + approved; About, Home, Personal, Contact still to build)
 Plan: —
 Status: Phase 2 complete and deployed; content inputs mostly in hand
-Last activity: 2026-10-27 -- Experience page (Phase 3 step 2) built and browser-checked locally, not pushed
+Last activity: 2026-10-27 -- Experience page (Phase 3 step 2) live, wording approved
 
 Progress: [█████░░░░░] 50%
 
@@ -97,5 +97,5 @@ Items acknowledged and carried forward from previous milestone close:
 ## Session Continuity
 
 Last session: 2026-10-27T12:00:00.000Z
-Stopped at: Experience page committed locally (not pushed) — awaiting Marcel's wording approval
-Resume file: None — next: push Experience after approval, then build next page (Contact/Personal/Home+About)
+Stopped at: Experience page live
+Resume file: None — next: build Contact, then Personal, then Home + About

@@ -82,7 +82,7 @@ Plans:
 Plans: built page by page as quick tasks
 
 - [x] Projects page (quick 261027-hg8) — live, wording approved 2026-10-27
-- [x] Experience page (quick 261027-ubw) — built 2026-10-27, pending wording approval + deploy
+- [x] Experience page (quick 261027-ubw) — live, wording approved 2026-10-27
 - [ ] Contact page
 - [ ] Personal page
 - [ ] Home + About pages
