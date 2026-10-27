@@ -5,7 +5,7 @@ milestone_name: milestone
 status: ready-to-plan
 stopped_at: Phase 2 complete — Phase 3 (site content) ready to plan
 last_updated: "2026-10-27T12:00:00.000Z"
-last_activity: 2026-10-27 -- Phase 02 Plan 02 approved and deployed
+last_activity: 2026-10-27 -- Quick task 261027-hg8 completed (Projects page)
 progress:
   total_phases: 4
   completed_phases: 2
@@ -25,7 +25,7 @@ See: .planning/PROJECT.md (updated 2026-06-16)
 
 ## Current Position
 
-Phase: 03 (site-content) — NOT STARTED (ready to plan)
+Phase: 03 (site-content) — IN PROGRESS (step 1 of 3: Projects page built, awaiting Marcel's wording approval)
 Plan: —
 Status: Phase 2 complete and deployed; content inputs mostly in hand
 Last activity: 2026-10-27 -- Phase 02 Plan 02 approved and deployed
@@ -86,6 +86,12 @@ Items acknowledged and carried forward from previous milestone close:
 | Category | Item | Status | Deferred At |
 |----------|------|--------|-------------|
 | *(none)* | | | |
+
+### Quick Tasks Completed
+
+| # | Description | Date | Commit | Directory |
+|---|-------------|------|--------|-----------|
+| 261027-hg8 | Phase 3 step 1: reusable ProjectCard + structured project data + /projects page with four projects | 2026-10-27 | 9f51ddf | [261027-hg8-phase-3-step-1-reusable-projectcard-stru](./quick/261027-hg8-phase-3-step-1-reusable-projectcard-stru/) |
 
 ## Session Continuity
 
