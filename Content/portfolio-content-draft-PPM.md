@@ -1,5 +1,12 @@
 # Portfolio Website — Content Draft
-*Flagship projects + supporting content. Confirm PPM section with Daniel before publishing.*
+*Flagship projects + supporting content.*
+
+> **Updates 2026-10-27 (Marcel's answers — these override the older text below):**
+> - **PPM:** keep it high-level and polished, not detailed. Anonymous card. Sites: **five live sites** (Japan has two) **+ one in preparation**. CV numbers may be used: 50 users, 150 projects, 15 Power BI reports, KPI reporting from ~1 hour to minutes.
+> - **henmarsell:** **co-founded with my brother** (he may be named — name TBD). Product: **pond "fish towers"** — a plexiglass column held under negative pressure so the water stays inside above the pond surface; goldfish and other pond fish swim up into it, are visible from further away and look larger. Made by a German manufacturer; sold via own shop (wasserkunst.eu) and Amazon. **Exit:** sold to the manufacturer for **€15,000**, after generating c. **€50,000** of value — numbers may be published. Amazon listing still live (now run by the manufacturer). wasserkunst.eu link: on hold — on 2026-10-27 it only served an empty IONOS hosting page.
+> - **Festival:** mention the local council of Bordenau; **never name the political party**.
+> - **Cookbook app:** card name **"Citchen"** (deliberate misspelling). Link the **V2**: https://marcipane3.github.io/Citchen/v2/ — opens without login, language picker (DE/EN/ES/DK), 105 recipes, tabs Recipes/Stock/Shopping/Plan/AI. Root URL is the old V1 behind a Google login — don't link that.
+> - **Personal:** confirmation-class teaching dropped (not doing it). **Experience:** DTU International Student Ambassador listed under voluntary work.
 
 ---
 
@@ -88,4 +95,4 @@ Co-founded an e-commerce business selling gardening and aquarium products (notab
 ### Personal/Hobbies — framing suggestions
 - Sailing, race-biking, running, squash → "active lifestyle, performance-oriented" (keep brief, this is texture not substance)
 - Confirmation class teaching → "community education and mentorship" — genuinely relevant to people-leadership narrative, worth a sentence more than the sports
-- Local council member + CDU Bordenau treasurer → "civic engagement and local governance" — strong signal for organizational/leadership roles; frame as ongoing responsibility, not a hobby
+- Local council member (party NOT named — decided 2026-10-27) → "civic engagement and local governance" — strong signal for organizational/leadership roles; frame as ongoing responsibility, not a hobby
