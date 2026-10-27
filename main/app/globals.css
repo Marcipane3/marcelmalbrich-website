@@ -172,3 +172,13 @@ body {
   font-size: var(--text-base);
   line-height: var(--lh-normal);
 }
+
+/* Headlines h1–h3 use the display serif (handoff §3) */
+h1,
+h2,
+h3 {
+  font-family: var(--font-serif);
+  font-weight: var(--w-medium);
+  letter-spacing: var(--ls-display);
+  line-height: var(--lh-snug);
+}

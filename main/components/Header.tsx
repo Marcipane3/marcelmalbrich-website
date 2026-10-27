@@ -52,7 +52,7 @@ export function Header() {
           <NavBrand />
           <nav
             aria-label="Main navigation"
-            className="overflow-x-auto"
+            className="overflow-x-auto [scrollbar-width:none] [&::-webkit-scrollbar]:hidden"
             style={{ WebkitOverflowScrolling: "touch" as const }}
           >
             <NavLinks />
