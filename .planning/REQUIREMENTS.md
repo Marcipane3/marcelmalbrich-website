@@ -27,6 +27,7 @@ Requirements for initial release. Each maps to roadmap phases.
 - [ ] **PROJ-02**: Projects page includes the Hometown Festival project entry
 - [ ] **PROJ-03**: Projects page includes the PPM Rollout project entry, written in sanitized/structural form (no confidential employer detail)
 - [ ] **PROJ-04**: Projects page includes the Cookbook App project entry
+- [ ] **PROJ-05**: Projects page includes the henmarsell online-shop project entry (promoted from v2 on 2026-10-27)
 
 ### Design
 
@@ -45,7 +46,7 @@ Deferred to future release. Tracked but not in current roadmap.
 
 ### Projects
 
-- **PROJ-05**: Projects page includes a smaller Wasserkunst/Henmarsell entrepreneurial-experience card (only if Marcel provides material)
+*(PROJ-05 promoted to v1 on 2026-10-27.)*
 
 ### Content
 
@@ -58,7 +59,7 @@ Explicitly excluded. Documented to prevent scope creep.
 
 | Feature | Reason |
 |---------|--------|
-| Social media links/integration | Explicitly excluded per project scope |
+| Social media links/integration | Explicitly excluded per project scope — LinkedIn link is the one allowed exception |
 | E-commerce functionality | Explicitly excluded per project scope |
 | Blog/writing section | Explicitly excluded per project scope |
 | Dark/light mode toggle | Single light theme only, by design |
@@ -82,6 +83,7 @@ Populated during roadmap creation.
 | PROJ-02 | Phase 3 | Pending |
 | PROJ-03 | Phase 3 | Pending |
 | PROJ-04 | Phase 3 | Pending |
+| PROJ-05 | Phase 3 | Pending |
 | DSGN-01 | Phase 2 | Complete |
 | DSGN-02 | Phase 2 | Complete |
 | LAB-01 | Phase 4 | Pending |

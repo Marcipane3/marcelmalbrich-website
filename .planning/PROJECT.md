@@ -32,12 +32,12 @@ The main site must work as a credible, professional portfolio that a recruiter o
 
 ### Out of Scope
 
-- Social media links/integration — explicitly excluded per project scope
+- Social media links/integration — explicitly excluded per project scope (exception: LinkedIn profile link allowed as a professional contact, decided 2026-10-27)
 - E-commerce functionality — explicitly excluded per project scope
 - Blog/writing section — explicitly excluded per project scope (a lightweight "notes" feature was floated but deprioritized)
 - Dark/light mode toggle — single light theme only, by design
 - Complex backend for the contact form — keep to mailto or a simple form service (e.g. Formspree), no custom backend
-- Wasserkunst/Henmarsell project card — optional/maybe; only add if Marcel provides material, treat as a smaller card if included
+- ~~Wasserkunst/Henmarsell project card — optional~~ → promoted to v1 as the fourth project card (decided 2026-10-27)
 
 ## Context
 
@@ -45,7 +45,7 @@ The main site must work as a credible, professional portfolio that a recruiter o
 - Prior planning was done outside GSD: root-level `PROJECT.md`, `ROADMAP.md`, and `CLAUDE.md` already captured the full vision, site structure, and a phased plan (Phase 0 Foundations → Phase 1 Scaffolding → Phase 2 Design → Phase 3 Content → Phase 4 Polish/Launch → Phase 5 Lab). This GSD setup formally replaces that system as the source of truth; the root files' content has been folded in here and into the roadmap.
 - A `.planning/codebase/` snapshot already exists (from a prior `/gsd-map-codebase` run) confirming the repo currently contains only planning/content docs — no code, no `package.json`, no git history before this initialization.
 - Draft content already exists under `Content/`: `koch-projekt-website-content.md` (festival project) and `portfolio-content-draft-PPM.md` (PPM rollout, sanitized). This is raw prose, not yet structured into data feeding any component.
-- Still needed from Marcel: CV/resume file, written summaries for festival and PPM projects (PPM draft exists but needs final sanitization confirmation), Cookbook app material, optional Wasserkunst material, personal section material (sailing, teaching, hobbies), final domain choice confirmation (`.com` vs `.de`), design direction preferences.
+- Received 2026-10-27: CV, Koch app docs, personal-page notes. Still needed: photos (placeholders meanwhile) and the open content questions tracked in the Phase 3 session.
 - The PPM Rollout project touches Marcel's employer (AGC Biologics, a CDMO) — content must stay general/structural per confidentiality rules: no specific company names, internal tool names, proprietary screenshots, or confidential data.
 
 ## Constraints
@@ -68,6 +68,8 @@ The main site must work as a credible, professional portfolio that a recruiter o
 | Lab subdomain not linked from main site nav | Keeps experimental work private/discoverable only via direct URL until it's ready to graduate | — Pending |
 | PPM Rollout project content kept sanitized/structural | Confidentiality — avoid exposing employer-specific or proprietary details | ✓ Confirmed 2026-10-27 |
 | Experience page names AGC Biologics + role; PPM project card stays anonymous | Employer and title are already public (LinkedIn); project detail stays generic | ✓ Decided 2026-10-27 |
+| Contact page shows marcel.malbrich@gmail.com (mailto) + LinkedIn link; never phone or home address | Simple, no backend; can be swapped for a domain alias if spam becomes a problem | ✓ Decided 2026-10-27 |
+| henmarsell becomes the fourth project card in v1 (PROJ-05 promoted from v2) | Strongest "built and ran something real" story | ✓ Decided 2026-10-27 |
 | No job-search / availability statement anywhere on the site | Site stays neutral; Marcel's explicit call | ✓ Decided 2026-10-27 |
 | Cookbook App card links the live app (marcipane3.github.io/Citchen) | Live demo is stronger than description; URL kept in data so the planned citchen domain move is a one-line change | ✓ Decided 2026-10-27 |
 | Domain registrar and email provider | Not yet decided — to be compared during Phase 0 work | — Pending |

@@ -67,13 +67,13 @@ Plans:
 
 **Goal**: A recruiter or peer can browse the live site and come away with a clear, accurate picture of who Marcel is, his career, his projects, and how to reach him.
 **Depends on**: Phase 2
-**Requirements**: PAGE-01, PAGE-02, PAGE-03, PAGE-04, PAGE-05, PROJ-01, PROJ-02, PROJ-03, PROJ-04
+**Requirements**: PAGE-01, PAGE-02, PAGE-03, PAGE-04, PAGE-05, PROJ-01, PROJ-02, PROJ-03, PROJ-04, PROJ-05
 **Success Criteria** (what must be TRUE):
 
   1. Visitor lands on a Home page with a summary and can navigate to every other section from there
   2. Visitor can read Marcel's professional summary on an About page
   3. Visitor can see a structured Experience/CV timeline reflecting Marcel's real career history
-  4. Visitor can browse a Projects page showing Hometown Festival, PPM Rollout (sanitized), and Cookbook App, each in a shared long-card layout with images, what it was, what Marcel did, and what he learned
+  4. Visitor can browse a Projects page showing Hometown Festival, PPM Rollout (sanitized), Cookbook App, and henmarsell, each in a shared long-card layout with images, what it was, what Marcel did, and what he learned
   5. Visitor can view a Personal/Hobbies page (sailing, confirmation-class teaching, other hobbies) in the same long-card style, and can contact Marcel via a simple mailto link or lightweight form
 
 **Plans**: TBD

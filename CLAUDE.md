@@ -60,7 +60,7 @@ The PPM rollout project content must stay general/structural — describe approa
 
 ## Things NOT to add (current scope)
 
-- Social media links/integration
+- Social media links/integration (exception: a LinkedIn link on Contact/footer is allowed — decided 2026-10-27)
 - E-commerce functionality
 - Blog/writing section
 - Dark/light mode toggle
