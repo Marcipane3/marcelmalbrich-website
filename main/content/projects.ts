@@ -102,7 +102,7 @@ export const projects: Project[] = [
     slug: "citchen",
     category: "Side project",
     title: "Citchen — my personal cookbook app",
-    // period intentionally left out — start year not yet confirmed
+    period: "May 2026–present",
     role: "Solo project, built with Claude Code",
     summary:
       "An installable, offline-first cookbook app I designed and built with AI — try it yourself.",
