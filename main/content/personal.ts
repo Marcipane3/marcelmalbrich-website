@@ -110,6 +110,3 @@ export const personalTopics: PersonalTopic[] = [
     icon: "house",
   },
 ];
-
-/** One-line mention below the cards for things that don't need a card of their own. */
-export const occasionally = "Now and then I also go sailing — most recently on a short trip with my girlfriend.";

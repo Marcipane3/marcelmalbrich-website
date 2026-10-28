@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { personalIntro, personalTopics, occasionally } from "@/content/personal";
+import { personalIntro, personalTopics } from "@/content/personal";
 import { PersonalCard } from "@/components/PersonalCard";
 
 // In the App Router, this file (app/personal/page.tsx) automatically becomes the /personal URL.
@@ -32,8 +32,6 @@ export default function PersonalPage() {
           <PersonalCard key={topic.slug} topic={topic} />
         ))}
       </div>
-
-      <p className="mt-10 text-ink-soft">{occasionally}</p>
     </div>
   );
 }
