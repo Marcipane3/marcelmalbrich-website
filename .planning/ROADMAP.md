@@ -101,9 +101,12 @@ Plans: built page by page as quick tasks
 **Plans**: TBD
 **UI hint**: yes
 
-Plans:
+Plans: built inline 2026-10-28
 
-- [ ] 04-01: TBD
+- [x] Lab app in `lab/` (own deps; noindex + robots disallow-all) with experiment index — commit 092608f
+- [x] First experiment: "Find the bottleneck" process game (LAB-03) — commit 092608f
+- [x] No link from main site (LAB-02) — verified by grep
+- [ ] Vercel project (Root Directory `lab/`) + `lab.marcelmalbrich.com` CNAME in Cloudflare (LAB-01) — needs Marcel
 
 ## Backlog
 
@@ -127,4 +130,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 1. Foundation & Deployment Pipeline | 2/2 | Complete   | 2026-06-17 |
 | 2. Design System | 2/2 | Complete | 2026-10-27 |
 | 3. Site Content | 5/5 pages | Complete (photos pending) | 2026-10-28 |
-| 4. Hidden Lab | 0/TBD | Not started | - |
+| 4. Hidden Lab | 3/4 | Built, awaiting Vercel + DNS | - |

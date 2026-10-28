@@ -25,7 +25,7 @@ See: .planning/PROJECT.md (updated 2026-06-16)
 
 ## Current Position
 
-Phase: 03 (site-content) — COMPLETE 2026-10-28 (all five pages live; photos still placeholders). Next: Phase 04 (hidden lab)
+Phase: 03 (site-content) — COMPLETE 2026-10-28 (all five pages live; photos still placeholders). Phase 04 (hidden lab) — lab app + process game built and committed; awaiting push, Vercel project and DNS
 Plan: —
 Status: Phase 2 complete and deployed; content inputs mostly in hand
 Last activity: 2026-10-27 -- Contact page (Phase 3 step 3) built and browser-checked
@@ -100,5 +100,5 @@ Items acknowledged and carried forward from previous milestone close:
 ## Session Continuity
 
 Last session: 2026-10-27T12:00:00.000Z
-Stopped at: Phase 3 complete, all pages live
-Resume file: None — next: plan Phase 4 (hidden lab)
+Stopped at: Phase 4 lab built locally, deploy steps pending
+Resume file: None — next: Marcel creates lab Vercel project (Root Directory lab/) + Cloudflare CNAME, then verify lab.marcelmalbrich.com
