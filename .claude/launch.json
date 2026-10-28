@@ -4,8 +4,27 @@
     {
       "name": "main-dev",
       "runtimeExecutable": "npm",
-      "runtimeArgs": ["--prefix", "main", "run", "dev"],
+      "runtimeArgs": [
+        "--prefix",
+        "main",
+        "run",
+        "dev"
+      ],
       "port": 3000
+    },
+    {
+      "name": "lab-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "--prefix",
+        "lab",
+        "run",
+        "dev",
+        "--",
+        "--port",
+        "3001"
+      ],
+      "port": 3001
     }
   ]
 }
