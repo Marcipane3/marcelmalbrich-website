@@ -1,5 +1,6 @@
 import Image from "next/image";
 import type { Project } from "@/content/projects";
+import { TagList } from "@/components/TagList";
 
 /**
  * ProjectCard — the reusable "long card" used on /projects.
@@ -10,22 +11,6 @@ import type { Project } from "@/content/projects";
  * project-specific lives here — so adding or editing a project never needs
  * a change to this file.
  */
-
-/** Small pill list for skills/topics (kept local until another page needs it). */
-function TagList({ tags }: { tags: string[] }) {
-  return (
-    <ul className="flex flex-wrap gap-2">
-      {tags.map((tag) => (
-        <li
-          key={tag}
-          className="bg-surface border border-line rounded-[var(--radius-pill)] px-3 py-1 text-[length:var(--text-xs)] font-medium text-ink-soft"
-        >
-          {tag}
-        </li>
-      ))}
-    </ul>
-  );
-}
 
 /** Photo if one is set in the data, otherwise a slate-to-ink gradient placeholder. */
 function ProjectMedia({ project }: { project: Project }) {

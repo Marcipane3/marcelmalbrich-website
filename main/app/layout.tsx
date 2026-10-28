@@ -21,7 +21,8 @@ const publicSans = Public_Sans({
 
 export const metadata: Metadata = {
   title: "Marcel Malbrich",
-  description: "Personal portfolio site — under construction",
+  description:
+    "Marcel Malbrich — industrial engineer in Copenhagen who turns scattered ways of working into one shared system.",
 };
 
 export default function RootLayout({
