@@ -25,7 +25,7 @@ See: .planning/PROJECT.md (updated 2026-06-16)
 
 ## Current Position
 
-Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience + Contact live; Personal built (local); Home + About still to build)
+Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience + Contact + Personal live; Home + About built (local) — all five pages done)
 Plan: —
 Status: Phase 2 complete and deployed; content inputs mostly in hand
 Last activity: 2026-10-27 -- Contact page (Phase 3 step 3) built and browser-checked
@@ -95,9 +95,10 @@ Items acknowledged and carried forward from previous milestone close:
 | 261027-ubw | Phase 3 step 2: TimelineItem component + typed experience data + /experience page | 2026-10-27 | d1220d5 | [261027-ubw-phase-3-step-2-experience-page-cv-timeli](./quick/261027-ubw-phase-3-step-2-experience-page-cv-timeli/) |
 | fast | Phase 3 step 3: /contact page (mailto + copy button + LinkedIn, content in main/content/contact.ts) | 2026-10-27 | 25cf4c5 | — |
 | fast | Phase 3 step 4: /personal page (PersonalCard + content in main/content/personal.ts) | 2026-10-28 | 4d7569b | — |
+| fast | Phase 3 step 5: home page (hero, stats, featured teasers, CTA) + /about (bio, skills) | 2026-10-28 | 524be53 | — |
 
 ## Session Continuity
 
 Last session: 2026-10-27T12:00:00.000Z
-Stopped at: Personal page committed locally
-Resume file: None — next: push Personal, then build Home + About
+Stopped at: Home + About committed locally
+Resume file: None — next: push Home + About, mark Phase 3 complete, then Phase 4 (hidden lab)
