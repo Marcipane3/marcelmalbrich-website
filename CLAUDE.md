@@ -74,7 +74,7 @@ If Marcel asks for any of these, treat it as a scope change — confirm and upda
 
 > Update this section as the project progresses so each new session has an at-a-glance summary.
 
-- **Current phase:** Phase 3 — Site Content (ready to plan). Phases 1–2 complete.
+- **Current phase:** Phase 4 — Hidden Lab (ready to plan). Phases 1–3 complete; Phase 3 photos still placeholders.
 - **Domain status:** `marcelmalbrich.com` live (Cloudflare DNS → Vercel)
 - **Repo status:** github.com/Marcipane3/marcelmalbrich-website (PUBLIC — never commit CV, phone, address)
 - **Deployment status:** Push to `master` auto-deploys to production

@@ -15,7 +15,7 @@ Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Foundation & Deployment Pipeline** - Repo, Next.js scaffold, and custom domain live on Vercel with a placeholder page (completed 2026-06-17)
 - [x] **Phase 2: Design System** - Single light theme via centralized Tailwind tokens, applied to a responsive page shell (completed 2026-10-27)
-- [ ] **Phase 3: Site Content** - All real pages and project entries live on the main site
+- [x] **Phase 3: Site Content** - All real pages and project entries live on the main site (completed 2026-10-28)
 - [ ] **Phase 4: Hidden Lab** - Separate lab subdomain deployment with one working experiment
 
 ## Phase Details
@@ -85,7 +85,7 @@ Plans: built page by page as quick tasks
 - [x] Experience page (quick 261027-ubw) — live, wording approved 2026-10-27
 - [x] Contact page (fast task, commit 25cf4c5) — live 2026-10-28
 - [x] Personal page (fast task, commit 4d7569b) — live 2026-10-28, photos pending
-- [x] Home + About pages (fast task, commit 524be53) — built 2026-10-28, portrait photo pending
+- [x] Home + About pages (fast task, commit 524be53) — live 2026-10-28, portrait photo pending
 
 ### Phase 4: Hidden Lab
 
@@ -126,5 +126,5 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 |-------|----------------|--------|-----------|
 | 1. Foundation & Deployment Pipeline | 2/2 | Complete   | 2026-06-17 |
 | 2. Design System | 2/2 | Complete | 2026-10-27 |
-| 3. Site Content | 5/5 pages | Built, Home + About pending push | - |
+| 3. Site Content | 5/5 pages | Complete (photos pending) | 2026-10-28 |
 | 4. Hidden Lab | 0/TBD | Not started | - |
