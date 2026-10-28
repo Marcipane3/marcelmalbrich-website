@@ -25,7 +25,7 @@ See: .planning/PROJECT.md (updated 2026-06-16)
 
 ## Current Position
 
-Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience live; Contact live; Personal, Home + About still to build)
+Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience + Contact live; Personal built (local); Home + About still to build)
 Plan: —
 Status: Phase 2 complete and deployed; content inputs mostly in hand
 Last activity: 2026-10-27 -- Contact page (Phase 3 step 3) built and browser-checked
@@ -77,7 +77,7 @@ None yet.
 ### Blockers/Concerns
 
 - Received 2026-10-27: CV (Content/, git-ignored — contains phone/address), Koch app source docs (Content/New folder/, git-ignored), personal-page notes (Content/personal-content-draft.md).
-- Still open for Phase 3: photos (placeholders until supplied), FIX club URL confirmation, framing of apartment-search card, fitness topics to mention.
+- Still open for Phase 3: photos (placeholders until supplied). FIX URL set to boldklubbenfix.dk (found by search, Marcel to confirm).
 
 ## Deferred Items
 
@@ -94,9 +94,10 @@ Items acknowledged and carried forward from previous milestone close:
 | 261027-hg8 | Phase 3 step 1: reusable ProjectCard + structured project data + /projects page with four projects | 2026-10-27 | 9f51ddf | [261027-hg8-phase-3-step-1-reusable-projectcard-stru](./quick/261027-hg8-phase-3-step-1-reusable-projectcard-stru/) |
 | 261027-ubw | Phase 3 step 2: TimelineItem component + typed experience data + /experience page | 2026-10-27 | d1220d5 | [261027-ubw-phase-3-step-2-experience-page-cv-timeli](./quick/261027-ubw-phase-3-step-2-experience-page-cv-timeli/) |
 | fast | Phase 3 step 3: /contact page (mailto + copy button + LinkedIn, content in main/content/contact.ts) | 2026-10-27 | 25cf4c5 | — |
+| fast | Phase 3 step 4: /personal page (PersonalCard + content in main/content/personal.ts) | 2026-10-28 | 4d7569b | — |
 
 ## Session Continuity
 
 Last session: 2026-10-27T12:00:00.000Z
-Stopped at: Contact page live
-Resume file: None — next: build Personal, then Home + About
+Stopped at: Personal page committed locally
+Resume file: None — next: push Personal, then build Home + About
