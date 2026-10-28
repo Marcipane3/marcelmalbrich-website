@@ -25,7 +25,7 @@ See: .planning/PROJECT.md (updated 2026-06-16)
 
 ## Current Position
 
-Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience live; Contact built (local); Personal, Home + About still to build)
+Phase: 03 (site-content) — IN PROGRESS (Projects live + approved; Experience live; Contact live; Personal, Home + About still to build)
 Plan: —
 Status: Phase 2 complete and deployed; content inputs mostly in hand
 Last activity: 2026-10-27 -- Contact page (Phase 3 step 3) built and browser-checked
@@ -98,5 +98,5 @@ Items acknowledged and carried forward from previous milestone close:
 ## Session Continuity
 
 Last session: 2026-10-27T12:00:00.000Z
-Stopped at: Contact page committed locally
-Resume file: None — next: push Contact, then build Personal, then Home + About
+Stopped at: Contact page live
+Resume file: None — next: build Personal, then Home + About
